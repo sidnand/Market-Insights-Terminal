@@ -1,4 +1,4 @@
-# Financial Data Terminal
+# Market Insights Terminal
 
 ## Usage
 
